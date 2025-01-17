@@ -1,11 +1,18 @@
-# Hi, I aam Vicente Gaspar!
+<img src="https://raw.githubusercontent.com/vicentegaspar/vicentegaspar/main/image/code-with-coffee.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador test"
+# Hi <img width="30" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, my name is Vicente Gaspar!
 
 # 🌟 About Me  
 Hey there! I'm a passionate **Software Developer** who loves turning ideas into scalable, maintainable, and fun-to-use code. 🚀  
 
 ## 🖥️ Tech Stack  
-- 🟦 **TypeScript**: Crafting snappy, scalable frontends and clean backend APIs.  
-- 🐍 **Python**: Building everything from data-driven applications to automation scripts.  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next JS](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## ⚙️ What I Do  
 - **Code with purpose**: Writing elegant, efficient, and developer-friendly solutions.  
