@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vicentegaspar/vicentegaspar/main/image/code-with-coffee.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador test"
+<img src="https://raw.githubusercontent.com/vicentegaspar/vicentegaspar/main/image/code-with-coffee.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador test">
 # Hi <img width="30" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, my name is Vicente Gaspar!
 
 # 🌟 About Me  
