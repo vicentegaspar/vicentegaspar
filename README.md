@@ -4,7 +4,6 @@
 #### Hey there! I'm a passionate **Software Developer** who loves turning ideas into scalable, maintainable, and fun-to-use code. 🚀  
 
 <br/>
-<br/>
 
 ## 🖥️ Tech Stack  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
