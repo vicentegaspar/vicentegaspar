@@ -3,6 +3,9 @@
 ## 🌟 About Me  
 Hey there! I'm a passionate **Software Developer** who loves turning ideas into scalable, maintainable, and fun-to-use code. 🚀  
 
+<br/>
+<br/>
+
 ## 🖥️ Tech Stack  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
@@ -12,6 +15,8 @@ Hey there! I'm a passionate **Software Developer** who loves turning ideas into 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br/>
 
 ## ⚙️ What I Do  
 - **Code with purpose**: Writing elegant, efficient, and developer-friendly solutions.  
