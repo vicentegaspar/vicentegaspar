@@ -1,7 +1,7 @@
-## Hello <img width="30" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">! My name is Vicente Gaspar
+### Hello <img width="30" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">! My name is Vicente Gaspar
 
-## 🌟 About Me  
-Hey there! I'm a passionate **Software Developer** who loves turning ideas into scalable, maintainable, and fun-to-use code. 🚀  
+### 🌟 About Me  
+#### Hey there! I'm a passionate **Software Developer** who loves turning ideas into scalable, maintainable, and fun-to-use code. 🚀  
 
 <br/>
 <br/>
