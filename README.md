@@ -1,9 +1,5 @@
-### Hello <img width="30" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">! My name is Vicente Gaspar
+### Hello! <img width="30" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> My name is Vicente Gaspar
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Developer-Full_Stack-0D1117?style=flat-square" alt="Software Developer" />
-  <img src="https://img.shields.io/badge/Open_to_Work-Collaborations-0D1117?style=flat-square" alt="Open to Work" />
-</p>
 
 ---
 
