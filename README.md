@@ -1,8 +1,10 @@
 # Vicente Gaspar
 
-Engineering-focused developer shipping systems, products, and experiments across Python, Rust, and TypeScript. I like tight abstractions, clean shipping, and side quests that usually turn into repos.
+Engineer who grew up saving worlds on SNES — Chrono Trigger, Final Fantasy, Zelda. Now I build the systems that ship themselves.
 
-## Tech
+Learned the basics the hard way. These days it's vibecoding with intent: agent loops that don't just suggest code, they *deliver* end-to-end features. Clean shipped something > perfect never shipped.
+
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -14,23 +16,19 @@ Engineering-focused developer shipping systems, products, and experiments across
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## Tooling
+## Currently questing
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- `agent-bench-kit` — reproducible agent evaluation
+- `token-compressor` — compression pipeline that actually works
+- `content-platform` — full-stack, production-grade
+- Side quests that become repos
 
-## Selected work
+## Philosophy
 
-- `agent-bench-kit` — reproducible agent evaluation toolkit
-- `token-compressor` — language-agnostic token compression pipeline
-- `content-platform` — production-grade full-stack app
-- `KML-loteador` — Django/DRF + Svelte geospatial app
-
-## Currently
-
-- shipping developer tools and agent infra
-- optimizing throughput, latency, or both
-- avoiding meetings and long changelogs
+- Ship > spec
+- Loops > prompts
+- Side quests > main quest (sometimes)
 
 ## Find me
 
-- Country: 🇧🇷 Brazil
+🇧🇷 Brazil | GMT-3
